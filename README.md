@@ -1,4 +1,4 @@
-## ansible-adhoc-test
+## ansible-adhoc-test for devops
 
 ### Steps to run andibsle adhoc
 Create two ansible config files to set up ADHOC
